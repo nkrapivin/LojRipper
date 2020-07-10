@@ -4,6 +4,8 @@
 
 It's a tool to dump .win from YYC'ed exes. Since game modding is your legal right.
 
+DOWNLOAD LINK HERE ==> https://github.com/nkrapivin/LojRipper/releases/latest <==
+
 Credits:
 
  - me - making it
